@@ -1,11 +1,11 @@
 .has-bg-img { 
-    background: url('../img/restaurant-agent.jpg');
+    background: linear-gradient(to right, rgba(50, 70, 80, 0.7), rgba(30, 20, 150, 0.7)), url('../img/restaurant-agent.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     height: 100vh;
     position: absolute;
-    z-index: -1;
+    z-index: -2;
     top: 0px;
     right: 0px;
     bottom: 0px;
